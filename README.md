@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions smile:_ EMILIO BURGOS smile:_
+# Hello GitHub Actions :smile: EMILIO BURGOS :smile:
 
 _Create and run a GitHub Actions workflow._
 
